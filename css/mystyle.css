@@ -1,0 +1,43 @@
+.logsign{
+	max-width:20%;
+}
+
+
+.customlogo{
+	padding-top:4px;
+}
+
+.middleone{
+	margin-top:60px;
+}
+
+.dashbox{
+	margin-top:60px;
+}
+
+.dashbox-title{
+	text-align:center;
+	font-weight: 700;
+}
+
+.dash-img{
+	height:160px;
+}
+
+.dashbox-content{
+	margin-top:8px;
+	text-align:center;
+}
+
+
+.custom-foot{
+	text-align:center;
+	min-height:30px;
+	color:white;
+}
+
+
+.myfooter-link a{
+	color: white;
+	text-decoration:none;
+}
